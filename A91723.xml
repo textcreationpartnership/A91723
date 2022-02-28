@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vindication of Abraham Reinaldson, late Lord Major of the City of London. With certaine queryes of conscience resolved, concerning his refusing to obey a late order of Parliament, for the proclaiming an unjust act for abolishing the kingly office in England and Ireland. For which supposed contempt, he was unjustly fined 2000l. by the House of Commons, degraded of his Maioralty, and committed prisoner to the Tower of London, Aprill 2. 1648.</title>
+            <author>Reynardson, Abraham, Sir, 1590-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91723</idno>
+            <idno type="STC">Wing R1212</idno>
+            <idno type="STC">Thomason E550_9</idno>
+            <idno type="STC">ESTC R205644</idno>
+            <idno type="EEBO-CITATION">99864964</idno>
+            <idno type="PROQUEST">99864964</idno>
+            <idno type="VID">165020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165020)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E550[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vindication of Abraham Reinaldson, late Lord Major of the City of London. With certaine queryes of conscience resolved, concerning his refusing to obey a late order of Parliament, for the proclaiming an unjust act for abolishing the kingly office in England and Ireland. For which supposed contempt, he was unjustly fined 2000l. by the House of Commons, degraded of his Maioralty, and committed prisoner to the Tower of London, Aprill 2. 1648.</title>
+                  <author>Reynardson, Abraham, Sir, 1590-1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer, M.DC.XL.IX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 10th London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reynardson, Abraham, --  Sir, 1590-1661.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165020:1" rendition="simple:additions"/>
+            <p>THE VINDICATION OF Abraham Reinaldſon, LATE LORD MAJOR OF THE CITY <hi>Of LONDON.</hi>
+            </p>
+            <p>With Certaine <hi>QVERYES</hi> Of <hi>Conſcience</hi> Reſolved, <hi>concerning his refuſing to obey a late Order of Parliament, for the Proclaiming an unjuſt ACT for Aboliſhing the Kingly Office in ENGLAND and IRELAND.</hi>
+            </p>
+            <p>For which ſuppoſed Contempt, he was unjuſtly Fined 2000 l. by the Houſe of Commons, degraded of his Maioralty, and Committed Priſoner to the Tower of <hi>London, Aprill</hi> 2. 1648.</p>
+            <q>
+               <bibl>Matth. 7.2.</bibl>
+               <p>VVith what Iudgement ye judge, ye ſhall be judged, and with what meaſure ye mete, ſhall be meaſured to you againe.</p>
+            </q>
+            <p>
+               <add>Aprill 10<hi rend="sup">th</hi> London</add> Printed in the Yeer, M.DC.XL.IX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165020:2"/>
+            <pb n="3" facs="tcp:165020:2"/>
+            <head>THE VINDICATION OF Abraham Reinaldſon, LATE LORD MAJOR OF THE CITY <hi>Of LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen, and Fellow Citizens,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath alwayes been my earneſt en<g ref="char:EOLhyphen"/>deavor (with that holy Apoſtle, St. Paul) to preſerve a cleer <hi>conſcience to<g ref="char:EOLhyphen"/>wards God, and towards man;</hi> I have uſually applyed my ſelf to the holy Scriptures, and to the obtaining of the true knowledge of <hi>Divine Truth,</hi> whereby to ſteer the Actions of my life, which ſhall alwayes be the Di<g ref="char:EOLhyphen"/>rector to my Conſcience; Therefore I hold it expedient (for the cleering of my ſelf from <hi>a ſuppoſed crime,</hi> or <hi>contempt</hi> againſt an <hi>Order</hi> of Parliament as they pleaſe to terme it) That I Remon<g ref="char:EOLhyphen"/>ſtrate unto you the Grounds and Reaſons moving me not to o<g ref="char:EOLhyphen"/>bey their queſtionable <hi>Authority,</hi> in prolaiming their late un<g ref="char:EOLhyphen"/>godly Act, <hi>for quite aboliſhing</hi> the Kingly Office in <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> without <hi>perjury</hi> to my Conſcience, and the forefeiture of my <hi>Allegiance</hi> to my King.</p>
+            <p>
+               <pb n="4" facs="tcp:165020:3"/>
+Firſt, as I very well remember, when I was initiated into the Society of men, and made a Member and Freeman of this City I took an Oath to be a <hi>faithfull</hi> and true <hi>Subject</hi> to the King that then was, and to his Heires, and to bear to Him true <hi>Allegiance.</hi> Secondly, I have taken an Oath, That <hi>I will Faith and Truth bear (to King Charles) of Life and Member,</hi> and <hi>terrene Honor.</hi> Third<g ref="char:EOLhyphen"/>ly, I have taken the Oath of <hi>Supremacy,</hi> enjoyned in <hi>Stat.</hi> 1. <hi>Eliz. cap.</hi> 1. and the Oath of Allegiance enjoyned me by <hi>Stat.</hi> 3. <hi>Iac. cap.</hi> 4.</p>
+            <p>Therefore, <hi>fellow Citizens,</hi> as it behoveth all good Chriſtians to be carefull before they ſweare, ſo likewiſe to performe that Oath they have ſworne, and eſpecially when it concernes our <hi>duty</hi> towards our King; I <hi>adviſe thee</hi> (ſaith the <hi>Preacher</hi>) <hi>to take heed of the mouth of the King, and to the Oath of God,</hi> as much as to <hi>ſay,</hi> That thou obey the King, and keep the Oath that thou haſt made for that Cauſe; and the Prophet <hi>Zachary</hi> gives us this Commandement from God; <hi>Let none of you imagine evill in his heart againſt his Neighbour, and love no falſe <hi>Oath,</hi> for theſe are things that I hate, ſaith the Lord. <hi>Zach.</hi>
+               </hi> 8.17.</p>
+            <p>Again, our bleſſed Saviour, gives me this Precept, <hi>Matth.</hi> 5.33. Thou ſhalt not <hi>forſweare thy ſelf,</hi> but performe thy Oaths unto the LORD.</p>
+            <p>When I well weighed theſe Scriptures, and applyed them to the former Oaths I had taken, I found, That I could not obey the Parliaments <hi>Order,</hi> without a great ſin againſt God, and treſpaſſe againſt my owne Conſcience; for having bound my ſelf by ſo many ſeverall former Oathes made to my King, and his Heires after him, to pay unto them my Allegiance, Faith and Truth, of <hi>Life &amp; Member,</hi> and <hi>terrene Honor,</hi> and having acknow<g ref="char:EOLhyphen"/>ledged Him to be <hi>Supreame</hi> Governor of his Realms; How can I then in Conſcience, ſo perſidiouſly withdraw my Allegiance from his Lawfull Succeſſor, in Proclaiming their unjuſt Act for Aboliſhing the Kingly Office, without manifeſt Perjury, breach of my Oath, formerly made to the King and his <hi>Heirs,</hi> or an<g ref="char:EOLhyphen"/>ſwer for taking the Name of God in vaine, by obeying an Or<g ref="char:EOLhyphen"/>der from a queſtionable Authority, which would enjoyne me a thing contradictory to my former Oaths, which by law<g ref="char:EOLhyphen"/>full <hi>Power,</hi> agreeable to the Laws of God and the Realme, I have
+<pb n="5" facs="tcp:165020:3"/>already bound my Conſcience to the ſtrict obſervance of.</p>
+            <p>And in this Contempt, (as they pleaſe to terme it) I have asked Counſell, not onely of the Law of God, but the Law of Reaſon, which ought to be writ in the heart of every man, teach<g ref="char:EOLhyphen"/>ing him what is to be done, and what is to be eſchewed; the Law of God inlightning our Naturall underſtanding, is given principally to direct our Actions by, for the obtaining felicitie in this life, ſo as we guide them onely by the Rule of <hi>Iu<g ref="char:EOLhyphen"/>ſtice.</hi>
+            </p>
+            <p>Theſe Lawes have inſtructed me, (and ought to inſtruct us all) what good is to be done, and evill to be avoided; That I ſhould doe to another that which I would another ſhould doe to me; That Juſtice is to be done to every man, and not wrong; That a Treſpaſſe is to be punniſhed, and the like.</p>
+            <p>And if Reaſon directs me, That good is to be done, and <hi>evill</hi> to be <hi>eſchewed,</hi> I muſt then needs conclude, That this Act for the aboliſhing of the KINGLY, Office, is directly againſt Law, and I by obeying their Order, or Command, in Proclaiming the ſame, muſt needs withdraw my Allegiance and Subjection to my KING from him, and ſo neceſſarily looſe the benefit or good I ſhould have by his Protection; For the <hi>Rule in Law</hi> runs thus.</p>
+            <p>That the OBEDIENCE of the SUBJECT drawes Protection from the KING, the King being ordained for the defence of the Law, and the Bodies and Goods of all his Sub<g ref="char:EOLhyphen"/>jects.</p>
+            <p>Neither is, nor can there be any lawfull Power to command me (being a Magiſtrate) but what is derivative from the Su<g ref="char:EOLhyphen"/>pream Power in the KING, or to His Officer, or officers, who have their Power from him, by His Writ, Patent or Comiſſion; neither ought I nor can I <hi>obey</hi> the Command of any ſuch law<g ref="char:EOLhyphen"/>full officer, if that thing which he enjoynes me to doe, be con<g ref="char:EOLhyphen"/>trary to the Law of God, the Law of Reaſon or the Fundamen<g ref="char:EOLhyphen"/>tall Laws of the Kingdome, which have all dependencie one on the other.</p>
+            <p>Then, much leſſe, the command of an uſurped or Pretended Power.</p>
+            <p>
+               <pb n="6" facs="tcp:165020:4"/>
+The holy Scriptures informes me, That I muſt <hi>fear God, and obey the King,</hi> that I muſt obey him for <hi>Conſcience ſake;</hi> and the <hi>Law</hi> teacheth me, That I muſt <hi>avoid evill;</hi> but it is <hi>evill</hi> for me to obey a pretended <hi>Authority,</hi> in proclaiming an unjuſt <hi>Act,</hi> which en<g ref="char:EOLhyphen"/>jones me to deny, and wrong my King, and ſo not <hi>honor,</hi> not <hi>obey</hi> him, by doing of which, I muſt neceſſarily <hi>diſobey God,</hi> who enjoynes me this <hi>duty</hi> of <hi>Obedience</hi> to my King; <hi>Ergo,</hi> Their <hi>command</hi> is not only forbidden in Gods Word, but againſt the <hi>Law of reaſon.</hi>
+            </p>
+            <p>The <hi>law</hi> teacheth me, <hi>to doe, as I would men ſhould doe unto me;</hi> But if I were a King, I would not be robbed of my <hi>wright,</hi> nor diſpoyled of the <hi>duty</hi> and <hi>ſervice</hi> of my Subjects, <hi>Ergo.</hi> They or<g ref="char:EOLhyphen"/>der me to doe a thing againſt the <hi>law</hi> of <hi>reaſon.</hi>
+            </p>
+            <p>It is <hi>injuſtice</hi> and <hi>wrong</hi> to take away the <hi>Kings Wright</hi> by this <hi>law,</hi> but you Order me to <hi>proclaim</hi> an Act that takes away his <hi>wright,</hi> which muſt needs be, <hi>to doe him wrong. Ergo,</hi> I ought not to obey your <hi>Order.</hi>
+            </p>
+            <p>The law of <hi>reaſon</hi> teacheth me, That a <hi>Treſpaſſer</hi> is to be <hi>pu<g ref="char:EOLhyphen"/>niſhed,</hi> and if I <hi>obey</hi> your <hi>Order,</hi> I muſt needs Treſpaſſe in the high<g ref="char:EOLhyphen"/>eſt nature upon the Kings <hi>Intereſt</hi> in me, as I am his Subject, to Treſpaſſe upon his <hi>laws</hi> as I am <hi>de jure,</hi> under his <hi>Government,</hi> and to Treſpaſſe upon his <hi>patience</hi> and <hi>goodneſs,</hi> and ſo make my ſelf lyable to the <hi>puniſhment</hi> that belongs to ſuch a <hi>Treſpaſſe.</hi> Ergo, there is no reaſon that I obey your <hi>Order.</hi>
+            </p>
+            <p>The <hi>law</hi> of <hi>reaſon</hi> is generally taken as a <hi>directive Rule</hi> unto a <hi>goodneſs</hi> of operation; ſo that by this <hi>Law</hi> I ought to direct all my Actions to a <hi>good end;</hi> but by Proclaiming your <hi>Act,</hi> I direct not my <hi>actions</hi> to a <hi>good end. Ergo,</hi> I cannot obey your unreaſo<g ref="char:EOLhyphen"/>nable Order.</p>
+            <p>Again, the <hi>law of reaſon</hi> is ſuch, that being propoſed, no man ought to reject it, as <hi>unjust,</hi> or <hi>unreaſonable;</hi> but the King may reject the impoſing of <hi>unlawfull commands</hi> upon his Subjects, whereby he is not only deprived of his <hi>Crown</hi> and <hi>Dignity,</hi> but of their <hi>ayde</hi> and <hi>Aſſiſtance. Ergo,</hi> &amp;c.</p>
+            <p>And truly every good Chriſtian ought to reject all ſuch <hi>Or<g ref="char:EOLhyphen"/>ders,</hi> or <hi>commands</hi> as unreaſonable and unjuſt, becauſe if they <hi>obey them</hi> they doe thereby not only break their Oath, (which is a grievous ſin) but looſe the benefit of <hi>protection,</hi> which by the
+<pb n="7" facs="tcp:165020:4" rendition="simple:additions"/>
+               <hi>law</hi> they may claime, and ought not to have, neither can be de<g ref="char:EOLhyphen"/>rived from any <hi>pretended Authority</hi> whatſoever, but reſides in the power of their Naturall, Lawfull, and Soveraigne Liege Lord the <hi>King.</hi> Ergo, &amp;c.</p>
+            <p>Againe, whereas the <hi>law</hi> of <hi>reaſon</hi> is never <hi>changable</hi> by any diverſity of <hi>place</hi> or <hi>time;</hi> and whereas mine <hi>Allegiance</hi> is due to my Soveraigne in all <hi>places,</hi> in all <hi>caſes,</hi> and at all <hi>times,</hi> I am for<g ref="char:EOLhyphen"/>bidden by this unchangeable <hi>law,</hi> to <hi>change</hi> ſo unchangable and unalterable a <hi>duty,</hi> by ſuch a flight and unwarantable <hi>Order,</hi> from a <hi>pretended Authority</hi> in theſe changeable times.</p>
+            <p>Now I hope all Moderate and unbyaſſed <hi>Citizens</hi> and others will conceive, That as it was againſt reaſon for me to <hi>obey</hi> ſuch an <hi>unreaſonable, unlawfull Order;</hi> ſo it was againſt <hi>law</hi> and <hi>reaſon</hi> in them to require me ſo to doe; for it is moſt unreaſonable and the worſt or <hi>Tyrannyes,</hi> to <hi>order,</hi> or <hi>force</hi> a <hi>Chriſtian Magiſtrate</hi> to doe that <hi>thing,</hi> which by doing, he muſt either commit that <hi>nationall</hi> and <hi>crying</hi> ſin of <hi>perjury</hi> and <hi>preſumption</hi> to deſtroy my own Soul, or by refuſing to doe it (becauſe it goes againſt my Conſcience ſo to doe,) not only to be Fyned a great Summe, (no leſſe then Two Thouſand Pounds) but to be hurried from my houſe to <hi>Weſtminſter,</hi> and from thence to Priſon by rude Souldiers, and be degraded of my Moyoralty; Let all reaſonable men judge whether this be ſit uſage for a <hi>Civill Magiſtrate,</hi> or whether it be not the greateſt <hi>injuſtice</hi> and <hi>Tyranny</hi> as can be in<g ref="char:EOLhyphen"/>flicted by thoſe that pretend <hi>Freedom, Liberty,</hi> and the like, and yet uſe more ſubtilties then the <hi>father of lies</hi> to enſnare men, only they differ in this, <hi>Satan</hi> catcheth at the <hi>ſpirituall</hi> riches of the ſoul, and the <hi>Senate</hi> at the<hi> temporall</hi> means belonging to the bo<g ref="char:EOLhyphen"/>dy; ſo that between them both, externall Riches, and in<g ref="char:EOLhyphen"/>ternall Graces are now ſtrongly beſieged by <hi>red-coats,</hi> but God of his Infinite Mercy, give us ſtrength and <hi>patience</hi> to hold out, ſo that they may not long exerciſe their Tyrannyes over us, as they now Vauntingly boaſt, <hi>That they intend to behead all the No<g ref="char:EOLhyphen"/>ble, plunder all the rich, and ſtarve all the Poore;</hi> As we already (by miſerable experience) are to our great ſorrow, very capable of.</p>
+            <p>As for my <hi>Fyne<g ref="char:punc">▪</g>
+               </hi> I weigh it not, for truly I had rather looſe my <hi>wealth</hi> then my <hi>ſoul;</hi> and what it can advantage them to gaine
+<pb n="8" facs="tcp:165020:5"/>my <hi>wealth</hi> and looſe theirs, is paſt my underſtanding to reſolve you.</p>
+            <p>Neither was it ever any <hi>cuſtom</hi> that any <hi>Order</hi> for proclaiming <hi>Proclamations</hi> or <hi>Acts</hi> in that nature, hath been directed to the Lord <hi>Major,</hi> becauſe it is the Office of a <hi>Sergeant at Armes,</hi> an <hi>Herald,</hi> or the <hi>Sheriffes</hi> to doe the ſame; But this Order ſo direct<g ref="char:EOLhyphen"/>ed to me, to <hi>proclaime</hi> the ſaid Act in Perſon, was no other but one of their old <hi>State-pollicies</hi> to ſet their hungry <hi>catterpillars</hi> a feeding, to devour my Eſtate.</p>
+            <p>But I fear I am not the laſt by many, that they intend to pu<g ref="char:EOLhyphen"/>niſh in this kinde; but I have <hi>hope,</hi> in committing my preſent <hi>ſuf<g ref="char:EOLhyphen"/>ferings</hi> to Him, that <hi>Iudgeth righteous judgement;</hi> and leave theſe <hi>new authors</hi> of uſurped <hi>Authority</hi> to be Charactarized by the Pro<g ref="char:EOLhyphen"/>phet <hi>Amos. cap.</hi> 3. <hi>Verſ.</hi> 7. <hi>They know not to doe <hi>wright</hi> (ſaith the Lord) they ſtore up <hi>Violence</hi> and <hi>Robbery</hi> in their Pallaces, and tuine Iudgement into Wormwood, and leave off Righteouſneſſe in the Earth:</hi> and as <hi>Solomon</hi> ſaith of ſuch, <hi>That they ſleep not, except they have done Miſchief, and their ſleep is taken away, unleſs they cauſe ſome to fall; for they eate the bread of <hi>Wickedneſſe,</hi> and are drunk with the <hi>Wine</hi> of <hi>Violence.</hi>
+               </hi>
+            </p>
+            <p>But I ſhall conclude, with that Proverbial Exhortation of <hi>So<g ref="char:EOLhyphen"/>lomon,</hi> which ſhall be my Advice to every <hi>true-hearted Citizen, My ſonne, feare thou God, and the King, and meddle not with them that are given to <hi>Change.</hi>
+               </hi>
+            </p>
+            <closer>
+               <dateline>From my Impriſonment in the <hi>Tower,</hi> 
+                  <date>Aprill, 9. 1649.</date>
+               </dateline>
+               <signed>A. R.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
